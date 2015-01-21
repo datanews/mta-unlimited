@@ -1,2 +1,3 @@
-# mta-unlimited
-MTA data on unlimited Metrocard usage.
+# MTA Unlimited Metrocard Usage
+
+This CSV includes data supplied by the Metropolitan Transportation Authority (MTA) on the use of 7-day and 30-day unlimited Metrocards in the New York subway.  Data covers swipes in May 2014 between 6am and 10am (morning commuters), and excludes 15 hub stations (e.g. 34th St-Penn Station).  It merges this data with census tract-level information on median income and poverty for each station.  Stations on the border of Central Park and another census tract are treated as lying in the more populous tract.
